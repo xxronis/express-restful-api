@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "JSON to backbone proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pan",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "body-parser": "^1.12.0",
+    "express": "^4.12.2"
+  }
+}
